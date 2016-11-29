@@ -8,4 +8,5 @@ To add a new file and commit it to the repository:
 git add FILENAME
 git commit -m "some awesome message"
 
-blabla
+To send the data somewhere safe
+git push
