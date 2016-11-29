@@ -1,1 +1,10 @@
 die ist irgenein txt file
+
+to make a git repository run:
+git init SOME_FOLDER
+
+
+To add a new file and commit it to the repository:
+git add FILENAME
+git commit -m "some awesome message"
+
